@@ -1,0 +1,3 @@
+[submodule "chiaki"]
+	path = chiaki
+	url = https://github.com/thestr4ng3r/chiaki
